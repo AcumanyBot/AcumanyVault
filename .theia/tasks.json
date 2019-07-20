@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "label": "",
+      "command": "",
+      "args": [
+        ""
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "type": "shell"
+    }
+  ]
+}
